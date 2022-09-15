@@ -418,12 +418,9 @@ svg {
 }
 
 .footer {
-  background: #2F303A;
+  background-color: #2F303A;
   padding-top: 60px;
   padding-bottom: 60px;
-  max-width: 1600px;
-  background-size: cover;
-  margin: auto;
 }
 
 .footer-conteiner {
